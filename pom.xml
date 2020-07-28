@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.swrap</groupId>
 	<artifactId>avg-springboot-starter</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3</version>
 	<name>avg-springboot-starter</name>
 	<description>Demo project for Spring Boot</description>
 
