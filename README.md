@@ -16,3 +16,4 @@ To run the image that was just built in the previous step:
 ```
 docker run --rm -p 9001:8080 $ARTIFACT_ID:$VERSION 
 ```
+
